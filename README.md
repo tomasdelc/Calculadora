@@ -1,2 +1,2 @@
 # Calculadora
-Calculadora hecha con HTML, Css y JavaScript. 
+Calculator made with HTML, Css and JavaScript.
